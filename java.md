@@ -20,7 +20,7 @@ export JAVA_HOME=/usr/java/jdk1.x.xx
 CLASSPATH=./src/main/java:./src/main/resources
 MAIN_CLASS=com.awesomeshell.Helloworld
 
-for f in `ls ./libs/*.jar`;do CLASSPATH=$CLASSPATH:./libs/$f;done
+for f in `ls ./libs`;do CLASSPATH=$CLASSPATH:./libs/$f;done
 
 $JAVA_HOME/bin/java -classpath $CLASSPATH $MAIN_CLASS
 ```
