@@ -6,3 +6,4 @@
 + [FTP上传下载](https://github.com/gooree/awesome-shells/blob/master/ftp.md)
 + [Shell多线程](https://github.com/gooree/awesome-shells/blob/master/threads.md)
 + [执行JAVA](https://github.com/gooree/awesome-shells/blob/master/java.md)
++ [服务器是否在线](https://github.com/gooree/awesome-shells/blob/master/mping.md)
