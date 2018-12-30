@@ -9,3 +9,7 @@
 + [服务器是否在线](https://github.com/gooree/awesome-shells/blob/master/mping.md)
 + [远程执行shell命令](https://github.com/gooree/awesome-shells/blob/master/remote.md)
 + [datax脚本](https://github.com/gooree/awesome-shells/blob/master/datax.md)
++ [nginx脚本](https://github.com/gooree/awesome-shells/blob/master/nginx.md)
++ [rabbitmq脚本](https://github.com/gooree/awesome-shells/blob/master/rabbitmq.md)
++ [redis脚本](https://github.com/gooree/awesome-shells/blob/master/redis.md)
++ [consul脚本](https://github.com/gooree/awesome-shells/blob/master/consul.md)
