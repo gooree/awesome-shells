@@ -13,3 +13,5 @@
 + [rabbitmq脚本](https://github.com/gooree/awesome-shells/blob/master/rabbitmq.md)
 + [redis脚本](https://github.com/gooree/awesome-shells/blob/master/redis.md)
 + [consul脚本](https://github.com/gooree/awesome-shells/blob/master/consul.md)
++ [nginx日志分析](https://github.com/gooree/awesome-shells/blob/master/topNg.md)
++ [nginx动态黑名单](https://github.com/gooree/awesome-shells/blob/master/blacklist.md)
